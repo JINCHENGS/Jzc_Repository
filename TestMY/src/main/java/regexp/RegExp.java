@@ -1,6 +1,7 @@
 package regexp;
 
-import static java.util.regex.Pattern.*;
+import static java.util.regex.Pattern.CASE_INSENSITIVE;
+import static java.util.regex.Pattern.compile;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
